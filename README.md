@@ -1,2 +1,2 @@
 # Test
-Repository to test github fucntions
+Repository to test github functions
